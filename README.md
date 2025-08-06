@@ -106,10 +106,6 @@ const nakazawa = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakazawa-juk&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakazawa-juk&theme=tokyonight" alt="nakazawa-juk" />
-</div>
-
 ---
 
 ## 🏆 Recent Projects
