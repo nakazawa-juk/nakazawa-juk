@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Jukiya Nakazawa!
 
-> **フリーランスエンジニア | IT技術で社会に貢献し、世の中に笑顔を増やしたい**
-
 [![Website](https://img.shields.io/badge/Portfolio-jukiya--nakazawa.com-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://jukiya-nakazawa.com)
 [![Wantedly](https://img.shields.io/badge/Wantedly-Profile-21D4FD?style=for-the-badge&logo=wantedly&logoColor=white)](https://www.wantedly.com/id/jukiya_nakazawa)
 [![Email](https://img.shields.io/badge/Email-nakajuki6045%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakajuki6045@gmail.com)
