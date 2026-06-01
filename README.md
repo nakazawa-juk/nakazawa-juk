@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-jukiya--nakazawa.com-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://jukiya-nakazawa.com)
 [![Wantedly](https://img.shields.io/badge/Wantedly-Profile-21D4FD?style=for-the-badge&logo=wantedly&logoColor=white)](https://www.wantedly.com/id/jukiya_nakazawa)
-[![Email](https://img.shields.io/badge/Email-nakajuki6045%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakajuki6045@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nakajuki6045%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jukiya-nakazawa.com)
 
 ---
 
@@ -154,7 +154,7 @@ const nakazawa = {
 
 ```typescript
 const contact = {
-  email: "nakajuki6045@gmail.com",
+  email: "contact@jukiya-nakazawa.com",
   portfolio: "https://jukiya-nakazawa.com",
   wantedly: "https://www.wantedly.com/id/jukiya_nakazawa",
   availableFor: ["Freelance Projects", "Collaborations", "Tech Discussions"]
@@ -166,7 +166,7 @@ const contact = {
 **💡 お仕事のご相談、技術について語り合いませんか？**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-orange?style=for-the-badge&logo=vercel)](https://jukiya-nakazawa.com)
-[![Email](https://img.shields.io/badge/Contact-Send_Email-red?style=for-the-badge&logo=gmail)](mailto:nakajuki6045@gmail.com)
+[![Email](https://img.shields.io/badge/Contact-Send_Email-red?style=for-the-badge&logo=gmail)](mailto:contact@jukiya-nakazawa.com)
 
 </div>
 
